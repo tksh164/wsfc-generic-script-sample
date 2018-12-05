@@ -1,0 +1,1 @@
+# wsfc-generic-script-sample
